@@ -3,13 +3,17 @@ This repository contains the preprocessed Event-Related Potential (ERP) dataset 
 The data is provided as a single Excel workbook containing the averaged waveforms for each subject. 
 The experiment involved a manipulation with four distinct conditions, which are separated into four individual sheets within the workbook.
 
-Sheet 1 FP600/easy
+●Sheets (Experimental Conditions)
 
-Sheet 2 FP600/hard
+・Sheet 1 FP600/easy
 
-Sheet 3 FP3000/easy
+・Sheet 2 FP600/hard
 
-Sheet 4 FP3000/hard
+・Sheet 3 FP3000/easy
+
+・Sheet 4 FP3000/hard
+
+●Column Layout
 
 Column 1 (Time): The timeline (time points) in milliseconds (ms) relative to the event onset (0 ms).
 
