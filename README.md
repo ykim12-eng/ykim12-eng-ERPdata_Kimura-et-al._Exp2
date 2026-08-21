@@ -4,8 +4,11 @@ The data is provided as a single Excel workbook containing the averaged waveform
 The experiment involved a manipulation with four distinct conditions, which are separated into four individual sheets within the workbook.
 
 Sheet 1 FP600/easy
+
 Sheet 2 FP600/hard
+
 Sheet 3 FP3000/easy
+
 Sheet 4 FP3000/hard
 
 Column 1 (Time): The timeline (time points) in milliseconds (ms) relative to the event onset (0 ms).
