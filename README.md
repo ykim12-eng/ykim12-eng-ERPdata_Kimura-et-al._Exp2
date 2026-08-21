@@ -9,4 +9,5 @@ Sheet 3 FP3000/easy
 Sheet 4 FP3000/hard
 
 Column 1 (Time): The timeline (time points) in milliseconds (ms) relative to the event onset (0 ms).
+
 Columns 2 to 25: The averaged EEG amplitude values in microvolts (µV) for each individual subject.
